@@ -1,3 +1,6 @@
 # newdir
 this is a new note
-sec note
+second merg
+
+third merge
+
